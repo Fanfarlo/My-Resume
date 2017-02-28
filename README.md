@@ -1,5 +1,3 @@
-# My-Resume
-One of my first projects at Udacity. I learn JavaScript, Jquery, Git and GitHub
 # Project Details
 ## How do I complete this project?
 Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
