@@ -171,6 +171,10 @@ ul {
     display: none;
 }
 
+.project-entry img {
+  width:250px;
+}
+
 img {
     padding: 10px;
 }

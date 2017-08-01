@@ -25,7 +25,7 @@ var education = {
     "onlineCourses": [{
         "title": "Front-End Web Developer Nanodegree",
         "school": "Udacity",
-        "dates": "2016-Now",
+        "dates": "2016-2017",
         "url": "<a href=\"https:\/\/www.udacity.com\">https://www.udacity.com<a>"
     }]
 };
@@ -46,22 +46,22 @@ var projects = {
             "title": "Transportes Malpartida Website",
             "dates": "April - June 2016",
             "description": "Transportes Malpartida site was develop to increse the number of clients and give a better experience on any device",
-            "images": ["images\/transportes.jpg"],
+            "images": ["images\/malpartida.png"],
             "link": "http:\/\/transportesmalpartida.com"
         },
         {
-            "title": "My Resume in JavaScript",
+            "title": "Vancouver Deals for Food & Drinks",
             "dates": "February 2017",
-            "description": "My resume was build to apply for a job as a Web Developer. I used JavaScript and JQuery to create this page",
-            "images": ["images\/resume.jpg"],
-            "link": "http:\/\/transportesmalpartida.com"
+            "description": "This is an app designed for finding the best deals in your neighborhood. I used JavaScript and JQuery to create this page",
+            "images": ["images\/map.png"],
+            "link": "http:\/\/fanfarlo.github.io/Neighborhood-Map-Project/"
         },
         {
-            "title": "My Portafolio Website",
-            "dates": "January - 2017",
-            "description": "My Portafolio site is my first project in Udacity. I used HTML, CSS and Resposive Design",
-            "images": ["images\/portafolio.jpg"],
-            "link": "http:\/\/transportesmalpartida.com"
+            "title": "Responsive Website",
+            "dates": "July 2017",
+            "description": "This is a website designed for all devices and for being printed. I used HTML, CSS, JavaScrip, JQuery and Resposive Design",
+            "images": ["images\/responsive.png"],
+            "link": "http:\/\/fanfarlo.github.io/Responsive-Website/"
         }
     ]
 };
